@@ -1,4 +1,3 @@
-//This queue can hold max 100 elements. As this is a circular queue we have to know the size beforehand
 class Queue {
   //Using constructor initialize the size of the queue
   constructor(size) {
