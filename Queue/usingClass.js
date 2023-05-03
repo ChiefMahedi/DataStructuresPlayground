@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> de2cc76063bfea5ffc6d948df5ccfb3af8cd6da7
 class Queue {
   //Using constructor initialize the size of the queue
   constructor(size) {
