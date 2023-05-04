@@ -31,7 +31,6 @@ class doublyLinkedList{
       this.head.prev = nodeObject;
     }
     this.head = nodeObject;
-    this.length++;
   }
   //insert: It takes two Node objects as arguments..
   //First Node object represents the node being inserted and..
