@@ -34,7 +34,7 @@ class doublyLinkedList{
   }
   //insert: It takes two Node objects as arguments..
   //First Node object represents the node being inserted and..
-  //Second Node object represents the node being deleted.
+  //Second Node object represents the node before which the new node will be inserted.
   insert(insertingNode ,pointerToaNode)
   {
     //This if is needed because we get the second argument from the search method....
